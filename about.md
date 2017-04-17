@@ -1,9 +1,4 @@
-﻿---
-layout: page
-title: O projektu
----
-
-Cilova skupina
+﻿---layout: pagetitle: O projektu---Cilova skupina
 Studenti, lide zajimajici se o psychedelicke latky.
 
 Cil webu

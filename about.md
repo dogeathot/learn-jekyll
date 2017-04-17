@@ -1,5 +1,5 @@
 ﻿---
-layout: o projektu page
+layout: page
 title: O projektu
 ---
 

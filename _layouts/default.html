@@ -1,29 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
-
-  {% include _head.html %}
-
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>{{ site.title }}</title>
+	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css">
+</head>
 <body>
-  {% include _header.html %}
-
-      <main>
-        {{ content }}
-      </main>
-
-      {% include _footer.html %}
-
-    <script src="{{ site.baseurl }}/js/jquery-2.1.4.js"></script>
-    <script src="{{ site.baseurl }}/js/main.js"></script>
-
-    {% if site.analytics_id %}
-     <script>
-       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-       ga('create', '{{ site.analytics_id }}', 'auto');
-       ga('send', 'pageview');
-     </script>
-    {% endif %}
-  </body>
+{% include analytics.html %}
+	<div class="wrapper">
+		<header>
+			<h1><a href="{{ site.baseurl }}{% link index.md %}">{{ site.title }}</a></h1>
+		</header>
+		
+		<section class="content">
+			{{ content }}
+		</section>
+		
+		<nav>
+			{% include menu.md %}
+		</nav>
+	</div>
+</body>
 </html>

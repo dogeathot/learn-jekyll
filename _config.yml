@@ -31,4 +31,3 @@ exclude:
   - Gemfile.lock
   - mock/*
 google_analytics: UA-97896517-1
-theme: progress

@@ -1,50 +1,40 @@
-﻿---layout: pagetitle: O projektu---Cilova skupina
-Studenti, lide zajimajici se o psychedelicke latky.
+---
+layout: page
+title: About
+---
 
-Cil webu
-Poskytnout navstevnikum webovych stranek dostatek informaci o vedci Albertu Hofmannovi a jeho "diteti" LSD (kyseline lysergove) a dale take o vyzkumu, ktery probihal na uzemi Ceskoslovenske socialisticke republiky.
+Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 
-Nazev webu
-Albert Hofmann a jeho "dite" LSD.
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html).
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed in an afternoon.
 
-Seznam webovych zdroju, ktere se venuji stejne oblasti
-https://erowid.org/chemicals/lsd/lsd.shtml
-https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide
-https://en.wikipedia.org/wiki/Albert_Hofmann
-http://www.telegraph.co.uk/news/obituaries/1912485/Obituary-Albert-Hofmann-LSD-inventor.html
-https://www.drugs.com/illicit/lsd.html
+---
 
-Seznam newebovych zdroju, ktere se venuji stejne oblasti
-LSD - me nezvedene dite
-Vnitrni cesty do vnejsiho vesmiru
-LSD a jine halucinogeny
-Psychedelie: trilogie o halucinogenech
-LSD - Vyzkum a klinicka praxe za zeleznou oponou
+## Progress
 
-Dostupna multimedia 
-http://www.ceskatelevize.cz/ivysilani/10463665003-lsd-made-in-cssr/
-https://www.youtube.com/watch?v=uheMo3denEo
-https://www.youtube.com/watch?v=mGj2ii0clRM
-https://www.youtube.com/watch?v=YTrtEZC39mQ
-http://www3.imperial.ac.uk/icimages?p_imgid=670663
+Progress was built and inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html). The folks over at Cody House are pretty fantastic and are making some awesome things. They're also super responsive to comments, so head on over there and check out what they've been doing. 
 
-Vizualni inspirace pro budouci vzhled webu
-http://www.psychonaut.com
-http://navykovelatky.cz/halucinogenni-latky/lsd/
-http://drugaware.com.au/getting-the-facts/
+Progress features quick and simple environment is set up so users can input all the necesarry info in the config file and start blogging. Further reiterations are in progress to turn this into a Wordpress theme or make it fully editable with Cloudcannon CMS. I cannot let you resell this unless you [contact me](mailto:alex@collectivelymade.com)
 
-Zakladni obsah k tematu
-- Albert Hofmann - shrnuti zivota
-- Objeveni LSD
-- Vliv LSD na vznik hnuti Hippies
-- Vyzkum v CSSR v souvislosti s LSD
-- Rizika uzivani LSD
-- LSD jako lek proti psychickym nemocem
-- Jakym zpusobem LSD ovlivnuje lidsky mozek?
-- Vliv LSD na hudebni prumysl
-- Mikrodavkovani LSD
-- Dalsi zname psychedelicke drogy
+If you'd like give credit somewhere on your blog or tweet a shout out to
+[@alexanderussell](https://twitter.com/alexanderussell), that would be pretty sweet. 
 
-Strategie zverejnovani obsahu 
-Informace budeme zverejnovat v poradi uvedenem v osmem bode. 
+If you feel like donating — [Give it a thought.](https://flattr.com/profile/alexanderussell)
 
+---
+
+## Basic Setup
+
+1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
+2. Download this bad boy. 
+3. Fork the [Progress repo](http://github.com/alexanderussell/progress-for-jekyll/)
+4. Twerk it out so it's just for you.
+5.  ???
+6.  Profit
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/alexanderussell/progress-for-jekyll/issues/new) or [ask me on Twitter](https://twitter.com/alexanderussell).
+
+Thanks!

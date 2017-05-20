@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title:  "Obrazky - Albert Hofmann a LSD"
+title:  "Albert Hofmann - shrnutí života"
 date:   2017-05-20 114:09:48 +0100
 tags: 
     - lsd
